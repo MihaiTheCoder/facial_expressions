@@ -1,3 +1,6 @@
+# Test yourself
+Install pandas
+open repository folder, open jupyter notebook, run all (install missing dependecies if needed)
 # facial_expressions
 A set of images for classifying facial expressions
 
